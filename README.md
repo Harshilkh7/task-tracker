@@ -1,67 +1,37 @@
-Personal Task Tracker
+# 📝 Personal Task Tracker
 
-📚 Description
+## 📚 Description  
+A responsive task management app built with **React** that allows users to manage tasks with:
 
-A responsive task management app built with React that allows users to manage tasks with priority levels, due dates, dark mode, and search functionality.
+- Priority levels (High/Medium/Low)  
+- Due dates  
+- Dark mode  
+- Search functionality  
+- Smooth animations  
+- Categories/tags (optional)  
 
-✨ Features
+Everything is saved in the browser with `localStorage` so your tasks persist after refresh.
 
-Simple login (username stored in localStorage)
+---
 
-Add, edit, delete tasks with confirmation prompts
+## ✨ Features  
 
-Toggle tasks as completed or pending
+✅ Simple login (username stored in localStorage)  
+✅ Add, edit, delete tasks with confirmation prompts  
+✅ Toggle tasks as completed or pending  
+✅ Filter tasks by **All**, **Completed**, **Pending**  
+✅ Search tasks by title  
+✅ Set task priority (High, Medium, Low)  
+✅ Optional due dates for tasks  
+✅ Smooth animations for task appearance  
+✅ Dark mode toggle for better UI experience  
+✅ Data persists after refresh  
+✅ Responsive design for mobile and desktop  
 
-Filter tasks by All, Completed, Pending
+---
 
-Search tasks by title
+## 🛠️ Setup Instructions  
 
-Set task priority (High, Medium, Low)
-
-Optional due dates for tasks
-
-Smooth animations for task appearance and buttons
-
-Dark mode toggle for better UI experience
-
-Data persists after refresh using localStorage
-
-🛠️ Setup Instructions
-
-Clone the repository:
-
-git clone [repository-link]
-
-Navigate to the project folder:
-
-cd task-tracker
-
-Install dependencies:
-
-npm install
-
-Start the development server:
-
-npm start
-
-Open your browser and visit:
-http://localhost:3000
-
-💪 Technologies Used
-
-React.js (functional components with Hooks)
-
-Vanilla CSS for responsive design and animations
-
-LocalStorage API for data persistence
-
-No external state management libraries used
-
-🔗 Live Demo
-
-[Deployed Application Link]
-(Add your Netlify, Vercel, or GitHub Pages link here)
-
-📸 Screenshots
-
-(Add screenshots showcasing the task dashboard, dark mode, and mobile view)
+1. **Clone the repository**  
+   ```bash  
+   git clone [repository-link]  

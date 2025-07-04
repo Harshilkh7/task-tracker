@@ -63,6 +63,9 @@ Everything is saved in the browser with `localStorage` so your tasks persist aft
 - Pure React state and props management
 
 ---
+## Screenshots
+![Screenshot (145)](https://github.com/user-attachments/assets/7d9eba4e-d8c2-4c90-aa5a-5d458840cca5)
+
 
 ## 🔗 Live Demo
    ```bash

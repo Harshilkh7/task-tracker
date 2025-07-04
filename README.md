@@ -65,17 +65,5 @@ Everything is saved in the browser with `localStorage` so your tasks persist aft
 ---
 
 ## 🔗 Live Demo
-
-
----
-
-## ⚡ Bonus Features
-✅ Dark mode toggle
-✅ Smooth CSS transitions and animations
-✅ Search functionality for quick task filtering
-✅ Priority badges with visual color indicators
-✅ Optional due date for tasks
-✅ Fully responsive mobile and desktop support
-✅ Tasks saved with localStorage (persist after refresh)
-✅ Editable tasks with inline edit option
-✅ Confirmation prompts on task deletion
+   ```bash
+   https://Harshilkh7.github.io/task-tracker

@@ -64,6 +64,9 @@ Everything is saved in the browser with `localStorage` so your tasks persist aft
 
 ---
 ## Screenshots
+![Screenshot (138)](https://github.com/user-attachments/assets/5a6c085b-7e7a-4e90-bc51-cba1afea3c9d)
+![Screenshot (139)](https://github.com/user-attachments/assets/c418acf6-7e06-4b77-a58a-9b12e2d8d623)
+![Screenshot (140)](https://github.com/user-attachments/assets/3d646d09-fdd2-40c0-984c-423b51087597)
 ![Screenshot (145)](https://github.com/user-attachments/assets/7d9eba4e-d8c2-4c90-aa5a-5d458840cca5)
 
 

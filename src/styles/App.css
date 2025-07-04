@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.login-container {
+  max-width: 400px;
+  margin: 100px auto;
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.task-form input {
+  margin: 5px;
+  padding: 8px;
+}
+
+.task-form button {
+  padding: 8px 12px;
+}
+
+.filter-buttons button {
+  margin: 5px;
+}
+
+.filter-buttons .active {
+  font-weight: bold;
+}
+
+.task-list {
+  list-style: none;
+  padding: 0;
+}
+
+.task-list li {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 4px;
+}
+
+.task-list .completed {
+  background: #d4edda;
+}
+
+.task-list .pending {
+  background: #fff3cd;
+}
+
+.task-actions button {
+  margin-right: 5px;
+}
+
+@media (max-width: 600px) {
+  .app-container, .login-container {
+    padding: 10px;
+  }
+}
